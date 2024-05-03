@@ -1,5 +1,5 @@
 name: Homer
-version: 24.04.1
+version: latest
 slug: homer
 url: https://homer-demo.netlify.app/
 init: false
@@ -17,4 +17,4 @@ ports_description:
   8080/tcp: Web interface
 map:
 - share:rw
-image: b4bz/homer:latest
+image: b4bz/homer
