@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  dashy:
+    repository: BenoitAnastay/dashy-home-assistant-addon
+    target: dashy
+    image: lissy93/dashy
