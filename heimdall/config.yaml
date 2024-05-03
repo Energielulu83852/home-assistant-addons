@@ -1,0 +1,20 @@
+name: Heimdall
+version: 24.04.1
+slug: heimdall
+url: https://homer-demo.netlify.app/
+init: false
+description: Homer is a full static html/js dashboard, based on a simple yaml configuration file
+webui: http://[HOST]:[PORT:80]
+stage: experimental
+arch:
+- aarch64
+- amd64
+- armv7
+startup: services
+ports:
+  80/tcp: 80
+ports_description:
+  80/tcp: Web interface
+map:
+- share:rw
+image: lscr.io/linuxserver/heimdall:latest
