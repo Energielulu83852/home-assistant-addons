@@ -4,7 +4,7 @@ slug: homer
 url: https://homer-demo.netlify.app/
 init: false
 description: Homer is a full static html/js dashboard, based on a simple yaml configuration file
-webui: http://[HOST]:[PORT:8000]
+webui: http://[HOST]:[PORT:8080]
 stage: experimental
 arch:
 - aarch64

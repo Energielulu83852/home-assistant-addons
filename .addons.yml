@@ -6,6 +6,6 @@ addons:
     target: dashy
     image: lissy93/dashy
   homer:
-    repository: BenoitAnastay/dashy-home-assistant-addon
+    repository: BenoitAnastay/homer-home-assistant-addon
     target: homer
     image: b4bz/homer
