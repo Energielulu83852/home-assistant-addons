@@ -5,10 +5,6 @@ addons:
     repository: Energielulu83852/home-assistant-addons/homer
     target: homer
     image: b4bz/homer
-  dashy:
-    repository: Energielulu83852/home-assistant-addons/dashy
-    target: dashy
-    image: lissy93/dashy
   heimdall:
     repository: Energielulu83852/home-assistant-addons/heimdall
     target: heimdall
