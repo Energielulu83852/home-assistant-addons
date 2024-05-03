@@ -1,5 +1,5 @@
 name: Heimdall
-version: 3.0.1
+version: latest
 slug: heimdall
 url: https://dashy.to/
 init: false
