@@ -1,10 +1,6 @@
 ---
 channel: stable
 addons:
-  dashy:
-    repository: Energielulu83852/home-assistant-addons/dashy
-    target: dashy
-    image: lissy93/dashy
   homer:
     repository: Energielulu83852/home-assistant-addons/homer
     target: homer
