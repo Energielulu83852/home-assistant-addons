@@ -17,4 +17,4 @@ ports_description:
   8080/tcp: Web interface
 map:
 - share:rw
-image: b4bz/homer
+image: b4bz/homer:latest
