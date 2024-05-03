@@ -1,9 +1,10 @@
 name: Heimdall
-version: 24.04.1
+version: 3.0.1
 slug: heimdall
-url: https://homer-demo.netlify.app/
+url: https://dashy.to/
 init: false
-description: Homer is a full static html/js dashboard, based on a simple yaml configuration file
+description: Dashy is an open source, highly customizable, easy to use, privacy-respecting
+  dashboard app
 webui: http://[HOST]:[PORT:80]
 stage: experimental
 arch:
