@@ -1,6 +1,6 @@
 name: Homer
 version: 3.0.1
-slug: dashy
+slug: homer
 url: https://homer-demo.netlify.app/
 init: false
 description: Homer is a full static html/js dashboard, based on a simple yaml configuration file
