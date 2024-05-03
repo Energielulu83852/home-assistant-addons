@@ -18,4 +18,4 @@ ports_description:
   80/tcp: Web interface
 map:
 - share:rw
-image: lscr.io/linuxserver/heimdall:latest
+image: lscr.io/linuxserver/heimdall
