@@ -1,10 +1,9 @@
 name: Heimdall
 version: latest
 slug: heimdall
-url: https://dashy.to/
+url: https://heimdall.site/
 init: false
-description: Dashy is an open source, highly customizable, easy to use, privacy-respecting
-  dashboard app
+description: Heimdall is a way to organise all those links to your most used web sites and web applications in a simple way.
 webui: http://[HOST]:[PORT:80]
 stage: experimental
 arch:
