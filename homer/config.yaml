@@ -1,5 +1,5 @@
 name: Homer
-version: 3.0.1
+version: latest
 slug: homer
 url: https://homer-demo.netlify.app/
 init: false
