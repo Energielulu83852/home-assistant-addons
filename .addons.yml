@@ -2,7 +2,7 @@
 channel: stable
 addons:
   homer:
-    repository: Energielulu83852/home-assistant-addons/homer
+    repository: brenner-tobias/addon-cloudflared
     target: homer
     image: b4bz/homer
   heimdall:
